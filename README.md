@@ -26,10 +26,14 @@ Projeto desenvolvido com API em Node.js para a criação de uma cápsula do temp
 
 Evento do NLW na plataforma da [Rocketseat](https://www.rocketseat.com.br/).
 
+- [Frontend Nextjs - Web](https://github.com/leticea/nlw-spacetime-web)
+
 ## 🚀 Como Rodar
 
 - Clone o projeto.
 - Entre na pasta do projeto e rode 'npm install' (use 'yarn install' se for essa a sua configuração).
+- npx prisma migrate dev (para configurar o banco de dados).
+- npx prisma studio (para rodar a página do banco de dados).
 - npm run dev (roda o servidor na porta localhost:3333).
 
 ## 🤔 Como contribuir
