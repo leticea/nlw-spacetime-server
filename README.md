@@ -37,6 +37,16 @@ Evento do NLW na plataforma da [Rocketseat](https://www.rocketseat.com.br/).
 - npx prisma studio (para rodar a página do banco de dados).
 - npm run dev (roda o servidor na porta localhost:3333).
 
+## 👩🏿‍💻 Rotas
+
+- **`GET http://localhost:3333/memories`**: Rota para mostrar as memórias:
+
+Retorna:
+<p align="center">
+  <img alt="" src=".github/image.png">
+</p>
+
+
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
