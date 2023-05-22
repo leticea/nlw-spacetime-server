@@ -23,6 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [SQLite](https://www.sqlite.org/index.html)
 - [Prisma](https://www.prisma.io/docs)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Axios](https://www.npmjs.com/package/axios)
 
 ## 💻 Projeto
 
