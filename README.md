@@ -80,7 +80,7 @@ Envia:
 
 ## 👩🏿‍💻 Rotas da Autenticação
 
-- **`POST http://localhost:3333/register`**: Rota que verifica se o usuário foi criado:
+- **`POST http://localhost:3333/register`**: Rota que cria o usuário no Banco de Dados:
 
 Envia:
 
