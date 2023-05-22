@@ -26,8 +26,8 @@ Projeto desenvolvido com API em Node.js para a criação de uma cápsula do temp
 
 Evento do NLW na plataforma da [Rocketseat](https://www.rocketseat.com.br/).
 
-- [Frontend Nextjs - Web](https://github.com/leticea/nlw-spacetime-web)
-- [Frontend React Native - Mobile](https://github.com/leticea/nlw-spacetime-mobile)
+- [Front-end Nextjs - Web](https://github.com/leticea/nlw-spacetime-web)
+- [Front-end React Native - Mobile](https://github.com/leticea/nlw-spacetime-mobile)
 
 ## 🚀 Como Rodar
 
@@ -70,6 +70,8 @@ Envia:
 <p align="center">
   <img alt="" src=".github/image4.png">
 </p>
+
+- **`DELETE http://localhost:3333/memories/:id`**: Rota para deletar uma memória.
 
 ## 🤔 Como contribuir
 
