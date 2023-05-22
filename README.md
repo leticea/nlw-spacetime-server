@@ -39,9 +39,18 @@ Evento do NLW na plataforma da [Rocketseat](https://www.rocketseat.com.br/).
 
 ## 👩🏿‍💻 Rotas
 
+- **`POST http://localhost:3333/memories`**: Rota para criar uma memória:
+
+Envia:
+
+<p align="center">
+  <img alt="" src=".github/image3.png">
+</p>
+
 - **`GET http://localhost:3333/memories`**: Rota para listar as memórias:
 
 Retorna:
+
 <p align="center">
   <img alt="" src=".github/image.png">
 </p>
@@ -49,10 +58,10 @@ Retorna:
 - **`GET http://localhost:3333/memories/314cb035-c567-4ff7-9f8f-5555a0f8f881`**: Rota para detalhar uma memória:
 
 Retorna:
+
 <p align="center">
   <img alt="" src=".github/image2.png">
 </p>
-
 
 ## 🤔 Como contribuir
 
