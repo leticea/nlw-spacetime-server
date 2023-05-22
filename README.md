@@ -7,6 +7,10 @@
 
 <br>
 
+<p align="center">
+  <img alt="" src=".github/wallpaper.png">
+</p>
+
 ## NLW Spacetime
 
 ## 🚀 Tecnologias
