@@ -42,7 +42,7 @@ Evento do NLW na plataforma da [Rocketseat](https://www.rocketseat.com.br/).
 - npx prisma studio (para rodar a página do banco de dados).
 - npm run dev (roda o servidor na porta localhost:3333).
 
-## 👩🏿‍💻 Rotas das Memórias
+## 👩🏿‍💻 Rotas de Autenticação das Memórias
 
 - **`POST http://localhost:3333/memories`**: Rota para criar uma memória:
 
@@ -78,7 +78,7 @@ Envia:
 
 - **`DELETE http://localhost:3333/memories/:id`**: Rota para deletar uma memória.
 
-## 👩🏿‍💻 Rotas da Autenticação
+## 👩🏿‍💻 Rotas de Registro
 
 - **`POST http://localhost:3333/register`**: Rota que cria o usuário no Banco de Dados:
 
