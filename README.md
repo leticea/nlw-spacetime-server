@@ -19,11 +19,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Nodejs](https://nodejs.org/en/) - v18.12.1
 - [Npm](https://www.npmjs.com/) - 8.19.2
+- [Axios](https://www.npmjs.com/package/axios) - 1.4.0
 - [Fastify](https://www.fastify.io/) - 4.17.0
+- [TypeScript](https://www.typescriptlang.org/) - 5.0.4
 - [SQLite](https://www.sqlite.org/index.html)
 - [Prisma](https://www.prisma.io/docs) - 4.14.1
-- [TypeScript](https://www.typescriptlang.org/) - 5.0.4
-- [Axios](https://www.npmjs.com/package/axios) - 1.4.0
 - [Zod](https://zod.dev/) - 3.21.4
 
 ## 💻 Projeto
