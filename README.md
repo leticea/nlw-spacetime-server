@@ -7,11 +7,11 @@
 
 <br>
 
+# NLW Spacetime
+
 <p align="center">
   <img alt="" src=".github/wallpaper.png">
 </p>
-
-## NLW Spacetime
 
 ## 🚀 Tecnologias
 
@@ -19,10 +19,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Nodejs](https://nodejs.org/en/) - v18.12.1
 - [Npm](https://www.npmjs.com/) - 8.19.2
-- [fastify](https://www.fastify.io/) - 4.17.0
+- [Fastify](https://www.fastify.io/) - 4.17.0
 - [SQLite](https://www.sqlite.org/index.html)
-- [Prisma](https://www.prisma.io/docs)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Prisma](https://www.prisma.io/docs) - 4.14.1
+- [TypeScript](https://www.typescriptlang.org/) - 5.0.4
 - [Axios](https://www.npmjs.com/package/axios) - 1.4.0
 - [Zod](https://zod.dev/) - 3.21.4
 
@@ -79,7 +79,7 @@ Envia:
 
 - **`DELETE http://localhost:3333/memories/:id`**: Rota para deletar uma memória.
 
-## 👩🏿‍💻 Rotas de Registro
+## 👩🏿‍💻 Rota de Registro
 
 - **`POST http://localhost:3333/register`**: Rota que cria o usuário no Banco de Dados:
 
